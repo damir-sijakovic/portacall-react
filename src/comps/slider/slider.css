@@ -1,0 +1,45 @@
+.slider-element{
+	border-radius: 8px;
+	box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+	background: linear-gradient(90deg, rgb(250, 243, 184) 45%, rgb(255, 195, 16) 100%);   
+}
+
+.swiper-slide{
+	cursor:pointer;
+  height: auto !important;
+}
+
+.swiper-conatiner{
+	border-radius: 10px;
+}
+
+.slide-card{
+	/*
+    background: lightsteelblue;
+    background: linear-gradient(90deg, rgb(250, 243, 184) 45%, rgb(255, 195, 16) 100%);     
+    border-radius:.5rem;
+    */
+    color:inherit;
+    display:block;
+    padding:2rem;
+    text-decoration:none!important;
+    width:100%;
+}
+
+
+
+@media only screen and (max-width: 420px) 
+{ 
+
+	.slider-title{
+		font-size: 32px;			
+	}
+	
+	.slider-text{
+		font-size: 18px;
+		word-wrap: break-word;
+		width: 90%;	
+	}
+
+
+}/* @420 */

@@ -1,0 +1,44 @@
+[
+	{
+		"name": "TwinsIDE",
+		"desc": "TwinsIDE (Integrated Development Environment Suit For AROS only).",
+		"link": "/twinside",
+		"img": "./assets/img/twins.png"
+	},
+	{
+		"name": "ArSFSDoctor",
+		"desc": "SFS disk recovery tool.",
+		"link": "/diskdoctor",
+		"img": "./assets/img/diskdoctor.png"
+	},
+	{
+		"name": "Murks!",
+		"desc": "Murks IDE is a free Integrated Development Environment.",
+		"link": "/murks",
+		"img": "./assets/img/murks.png"
+	},
+	{
+		"name": "ArZip",
+		"desc": "Un-zip utility.",
+		"link": "/unzip",
+		"img": "./assets/img/zip.png"
+	},
+	{
+		"name": "ArModPlugPlayer",
+		"desc": "Module player.",
+		"link": "/modplayer",
+		"img": "./assets/img/modplayer.png"
+	},
+	{
+		"name": "FrameBuild",
+		"desc": "Builds video from images.",
+		"link": "/framebuild",
+		"img": "./assets/img/framebuild.png"
+	},
+	{
+		"name": "Harmony Player",
+		"desc": "Audio and module player.",
+		"link": "/harmony",
+		"img": "./assets/img/harmony.png"
+	}
+]

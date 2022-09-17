@@ -1,0 +1,22 @@
+
+:root {
+--html-color: #363f4f;
+--html-bg: #C0C0C0;
+--html-font-size: 18px;
+
+--html-font-family: 'Rajdhani', -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
+--header-font:  'Rajdhani', -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
+
+--mono-font-family: 'JetBrains Mono',SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;
+--primary: #6082B6;
+--secondary: #708090;
+--highlight: #FF7253;
+--muted: #CCD3DD;
+--dark: #236bb3;
+--light: #6082B6;
+--white: #C0C0C0;
+--black: #000;
+--element-white: #DBD7D2;
+--scrim: rgba(0,0,0,.5);
+--shadow: 0 .5rem 1rem -.25rem rgba(54,63,79,.2),0 0 0 1px rgba(54,63,79,.02);
+}
